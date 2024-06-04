@@ -1,0 +1,353 @@
+[
+    {
+        "id": 1,
+        "title": "The Shawshank Redemption",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "year": 1994,
+        "image": "images/51.jpg"
+    },
+    {
+        "id": 2,
+        "title": "The Godfather",
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "year": 1972,
+        "image": "images/52.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Dark Knight",
+        "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+        "year": 2008,
+        "image": "images/53.jpg"
+    },
+    {
+        "id": 4,
+        "title": "The Godfather: Part II",
+        "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+        "year": 1974,
+        "image": "images/54.jpg"
+    },
+    {
+        "id": 5,
+        "title": "12 Angry Men",
+        "description": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+        "year": 1957,
+        "image": "images/55.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Schindler's List",
+        "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "year": 1993,
+        "image": "images/56.jpg"
+    },
+    {
+        "id": 7,
+        "title": "The Lord of the Rings: The Return of the King",
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "year": 2003,
+        "image": "images/57.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Pulp Fiction",
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "year": 1994,
+        "image": "images/58.jpg"
+    },
+    {
+        "id": 9,
+        "title": "The Good, the Bad and the Ugly",
+        "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "year": 1966,
+        "image": "images/59.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Fight Club",
+        "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "year": 1999,
+        "image": "images/60.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Forrest Gump",
+        "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+        "year": 1994,
+        "image": "images/61.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Inception",
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "year": 2010,
+        "image": "images/62.jpg"
+    },
+    {
+        "id": 13,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "year": 2001,
+        "image": "images/63.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.",
+        "year": 1980,
+        "image": "images/64.jpg"
+    },
+    {
+        "id": 15,
+        "title": "The Lord of the Rings: The Two Towers",
+        "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+        "year": 2002,
+        "image": "images/65.jpg"
+    },
+    {
+        "id": 16,
+        "title": "The Matrix",
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "year": 1999,
+        "image": "images/66.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Goodfellas",
+        "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners.",
+        "year": 1990,
+        "image": "images/67.jpg"
+    },
+    {
+        "id": 18,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "description": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+        "year": 1975,
+        "image": "images/68.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Seven Samurai",
+        "description": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+        "year": 1954,
+        "image": "images/69.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Se7en",
+        "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "year": 1995,
+        "image": "images/70.jpg"
+    },
+    {
+        "id": 21,
+        "title": "The Silence of the Lambs",
+        "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "year": 1991,
+        "image": "images/71.jpg"
+    },
+    {
+        "id": 22,
+        "title": "City of God",
+        "description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "year": 2002,
+        "image": "images/72.jpg"
+    },
+    {
+        "id": 23,
+        "title": "It's a Wonderful Life",
+        "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+        "year": 1946,
+        "image": "images/73.jpg"
+    },
+    {
+        "id": 24,
+        "title": "Saving Private Ryan",
+        "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "year": 1998,
+        "image": "images/74.jpg"
+    },
+    {
+        "id": 25,
+        "title": "Spirited Away",
+        "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+        "year": 2001,
+        "image": "images/75.jpg"
+    },
+    {
+        "id": 26,
+        "title": "The Green Mile",
+        "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+        "year": 1999,
+        "image": "images/76.jpg"
+    },
+    {
+        "id": 27,
+        "title": "Interstellar",
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "year": 2014,
+        "image": "images/77.jpg"
+    },
+    {
+        "id": 28,
+        "title": "Life Is Beautiful",
+        "description": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+        "year": 1997,
+        "image": "images/78.jpg"
+    },
+    {
+        "id": 29,
+        "title": "The Usual Suspects",
+        "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which begin when five criminals meet at a seemingly random police lineup.",
+        "year": 1995,
+        "image": "images/79.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Léon: The Professional",
+        "description": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+        "year": 1994,
+        "image": "images/80.jpg"
+    },
+    {
+        "id": 31,
+        "title": "Harakiri",
+        "description": "When a ronin requests seppuku at a feudal lord's palace, he is told the tragic story of another ronin who was previously dishonored.",
+        "year": 1962,
+        "image": "images/81.jpg"
+    },
+    {
+        "id": 32,
+        "title": "The Lion King",
+        "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+        "year": 1994,
+        "image": "images/82.jpg"
+    },
+    {
+        "id": 33,
+        "title": "Back to the Future",
+        "description": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+        "year": 1985,
+        "image": "images/83.jpg"
+    },
+    {
+        "id": 34,
+        "title": "Terminator 2: Judgment Day",
+        "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son from a more advanced and powerful cyborg.",
+        "year": 1991,
+        "image": "images/84.jpg"
+    },
+    {
+        "id": 35,
+        "title": "American History X",
+        "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+        "year": 1998,
+        "image": "images/85.jpg"
+    },
+    {
+        "id": 36,
+        "title": "Modern Times",
+        "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+        "year": 1936,
+        "image": "images/86.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Psycho",
+        "description": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+        "year": 1960,
+        "image": "images/87.jpg"
+    },
+    {
+        "id": 38,
+        "title": "Gladiator",
+        "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "year": 2000,
+        "image": "images/88.jpg"
+    },
+    {
+        "id": 39,
+        "title": "City Lights",
+        "description": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+        "year": 1931,
+        "image": "images/89.jpg"
+    },
+    {
+        "id": 40,
+        "title": "The Intouchables",
+        "description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+        "year": 2011,
+        "image": "images/90.jpg"
+    },
+    {
+        "id": 41,
+        "title": "Whiplash",
+        "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+        "year": 2014,
+        "image": "images/91.jpg"
+    },
+    {
+        "id": 42,
+        "title": "The Pianist",
+        "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "year": 2002,
+        "image": "images/92.jpg"
+    },
+    {
+        "id": 43,
+        "title": "The Departed",
+        "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "year": 2006,
+        "image": "images/93.jpg"
+    },
+    {
+        "id": 44,
+        "title": "The Prestige",
+        "description": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+        "year": 2006,
+        "image": "images/94.jpg"
+    },
+    {
+        "id": 45,
+        "title": "Casablanca",
+        "description": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+        "year": 1942,
+        "image": "images/95.jpg"
+    },
+    {
+        "id": 46,
+        "title": "Memento",
+        "description": "A man with short-term memory loss attempts to track down his wife's murderer.",
+        "year": 2000,
+        "image": "images/96.jpg"
+    },
+    {
+        "id": 47,
+        "title": "Apocalypse Now",
+        "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+        "year": 1979,
+        "image": "images/97.jpg"
+    },
+    {
+        "id": 48,
+        "title": "Alien",
+        "description": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+        "year": 1979,
+        "image": "images/98.jpg"
+    },
+    {
+        "id": 49,
+        "title": "The Great Dictator",
+        "description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+        "year": 1940,
+        "image": "images/99.jpg"
+    },
+    {
+        "id": 50,
+        "title": "Sunset Boulevard",
+        "description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+        "year": 1950,
+        "image": "images/100.jpg"
+    }
+]
+ 

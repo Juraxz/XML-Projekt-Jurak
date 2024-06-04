@@ -1,0 +1,245 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+
+header nav {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+header nav ul li {
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#search,
+#search-movies {
+    padding: 10px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+#book-list,
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 60%;
+}
+
+.book,
+.movie {
+    background-color: #fff;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    width: calc(33% - 20px);
+    box-sizing: border-box;
+    transition: transform 0.3s ease;
+}
+
+.book:hover,
+.movie:hover {
+    transform: scale(1.05);
+}
+
+.book img,
+.movie img {
+    width: 100px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+#book-details {
+    width: 40%;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    max-height: 90%;
+    overflow-y: auto;
+    box-sizing: border-box;
+}
+
+#book-details img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+#close-details,
+#submit-rating {
+    display: block;
+    margin: 0 auto 10px;
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#details-title,
+#details-author,
+#details-year,
+#details-description,
+#details-rating {
+    text-align: center;
+    margin: 10px 0;
+}
+
+#rating {
+    display: block;
+    margin: 10px auto;
+}
+
+#submit-rating {
+    display: block;
+    margin: 10px auto;
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#comparison-window {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+}
+
+#comparison-window.hidden {
+    display: none;
+}
+
+#comparison-content {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.comparison-book {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.comparison-book img {
+    width: 100px;
+    height: 150px;
+    margin-right: 20px;
+    float: left;
+}
+
+#title {
+    font-size: 35px;
+}
+
+.movie-details label {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 5px;
+    text-align: left;
+}
+
+.watched-checkbox:checked+label {
+    color: green;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+#rated-books-list .book {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-shadow: none;
+}
+
+#rated-books-list .book img {
+    width: 50px;
+    height: auto;
+    margin-right: 20px;
+}
+
+#rated-books-list .book .book-details {
+    flex-grow: 1;
+}
+
+#rated-books-list .book h2 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#rated-books-list .book p {
+    margin: 5px 0;
+}
+
+@media (max-width: 768px) {
+    #rated-books-list .book {
+        width: 100%;
+    }
+
+    #rated-books-list .book img {
+        width: 30px;
+        margin-right: 10px;
+    }
+}
+
+#rated-books-list .book:hover {
+    transform: none;
+}
